@@ -1,7 +1,7 @@
 # Proyecto-Final-eComerce-GymShark
 
 ### Descripción:
-El proyecto consiste en realizar un análisis exhaustivo de datos sobre la marca Gymshark, una reconocida empresa de ropa deportiva. 
+El proyecto final Bootcamp Analisis de Datos: consiste en realizar un análisis exhaustivo de datos sobre la marca Gymshark, una reconocida empresa de ropa deportiva. 
 Gymshark es una marca de ropa deportiva fundada en 2012 en el Reino Unido por Ben Francis y un grupo de amigos en su casa de Birmingham. Lo que comenzó como una pequeña empresa de impresión de camisetas se ha convertido en una marca global líder en el mercado de la moda deportiva, conocida por su enfoque en la comunidad fitness y su uso eficaz de las redes sociales para el marketing, por lo cual me ha parecido una idea estupenda el analizar como en tan poco tiempo han logrado posicionarse de tal manera.
 
 - Paso #1: WebScraping de https://eu.gymshark.com/  
