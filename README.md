@@ -34,8 +34,8 @@ Evaluar la rentabilidad de los productos y categorías para optimizar el inventa
 
 - Python 3.x instalado
 - git instalado
+- PowerBi
 
-- 
 ### Limitaciones:
 El proyecto se vio limitado no solo por las limitaciones de tiempo del proyecto, completado en un breve período de una semana y media como parte del bootcamp de análisis de datos de IronHack, sino también por ciertas limitaciones dentro de los modelos:
 
