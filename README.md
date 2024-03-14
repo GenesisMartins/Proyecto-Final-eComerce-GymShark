@@ -8,10 +8,10 @@ Gymshark es una marca de ropa deportiva fundada en 2012 en el Reino Unido por Be
 - Paso #2: - Utilizando datos FAKE creados con la libreria de Pandas FAKER para obtener un reporte de ventas los ultimos tres años.
          - Crar un listado FAKE de clientes
 El objetivo es obtener insights valiosos que puedan utilizarse para mejorar la estrategia de negocio, comprender el comportamiento del cliente y optimizar las operaciones.
-- Paso #3 EDA
-- Paso #4 RFM (técnica utilizada para evaluar el valor de los clientes).
-- Paso #5 Testeo de hipotesis.
-- Paso #6 Presentación BI.
+- Paso #3: EDA
+- Paso #4: RFM (técnica utilizada para evaluar el valor de los clientes).
+- Paso #5: Testeo de hipotesis.
+- Paso #6: Presentación BI.
 
 ### Objetivos:
 
